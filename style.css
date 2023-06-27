@@ -1,0 +1,42 @@
+#div1 {
+    width: 300px;
+    height: 300px;
+    background-color: #d0b2ee;
+    margin: auto;
+ border-radius: 3%;
+ box-shadow:  40px 40px 10px black;
+ 
+}
+
+
+#div1 :hover{
+
+
+}
+
+h1{
+
+    text-align: center;
+    color: rgb(19, 201, 207);
+
+}
+h1 :hover{
+
+    color: blue;
+}
+
+
+body{
+
+    background-color: darkblue;
+}
+
+main{
+  width: 880px;
+  height:900px;
+  background-color: burlywood;
+  margin: auto;
+  border-radius: 3%;
+
+
+}
